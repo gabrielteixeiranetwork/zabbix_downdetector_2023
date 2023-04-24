@@ -34,7 +34,7 @@ Agora vamos dar permissão para o usuário zabbix
 	chmod a+x /usr/lib/zabbix/externalscripts/downdetector*.py
 Agora vamos verificar se está retornando algo (1 ou 2) dentro da pasta /usr/lib/zabbix/externalscripts execute
 		 
-	./downdetector.py whatsapp*
+	./downdetector.py whatsapp
 	
 # Discovery/Auto Configuração
 Edite o arquivo downdetectorlist.list e altere para 1 os sites/host que deseja monitorar.
