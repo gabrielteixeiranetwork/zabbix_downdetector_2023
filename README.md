@@ -35,3 +35,14 @@ Agora vamos dar permissão para o usuário zabbix
 Agora vamos verificar se está retornando algo (1 ou 2) dentro da pasta /usr/lib/zabbix/externalscripts execute
 		 
 	./downdetector.py whatsapp*
+	
+Discovery/Auto Configuração
+Edite o arquivo downdetectorlist.list e altere para 1 os sites/host que deseja monitorar.
+
+downdetectordiscoverylist.list
+
+	0 INATIVO
+	1 ATIVO
+
+	0;caixa;Caixa Econômica Federal
+	1;caixa;Caixa Econômica Federal
