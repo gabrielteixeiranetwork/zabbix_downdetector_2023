@@ -1,11 +1,11 @@
 # downdetector_2023
 Instale
 
- apt install python3-pip
- pip3 install bs4
- pip3 install requests
- pip3 install cloudscraper
- apt install unzip
+	apt install python3-pip
+	pip3 install bs4
+ 	pip3 install requests
+ 	pip3 install cloudscraper
+ 	apt install unzip
 		 
 Acesse a pasta cd /tmp
 
