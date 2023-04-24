@@ -36,7 +36,7 @@ Agora vamos verificar se está retornando algo (1 ou 2) dentro da pasta /usr/lib
 		 
 	./downdetector.py whatsapp*
 	
-Discovery/Auto Configuração
+# Discovery/Auto Configuração
 Edite o arquivo downdetectorlist.list e altere para 1 os sites/host que deseja monitorar.
 
 downdetectordiscoverylist.list
